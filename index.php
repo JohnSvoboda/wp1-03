@@ -8,6 +8,7 @@
     <h1>Proměné</h1>
 <?php
 
+ 
     define("PI", 3.14) ;
     $r=5 ;
     $S= PI*$r*$r;
